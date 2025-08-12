@@ -1,7 +1,5 @@
-# Healthcare Data Prediction - Machine Learning Classification Model
-## Final Report
-
-### Summary of Findings and Link to your Jupyter Notebook
+# Final Report of Capstone Project 24.1
+## Summary
 - Summary of Finding: KNN is the best classification model for analyzing heart disease dataset got from Kaggle (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 - Jupyter Notebook Link: https://github.com/wjd20170117/CapstoneProject_24_1/blob/main/Capstone.ipynb
 
